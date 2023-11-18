@@ -13,5 +13,8 @@ This project is a web log developed using Django, allowing users to create, edit
 
 # Technologies Used
 **Django:** Backend framework used for developing the web application.
+
 **HTML/CSS/JavaScript:** Frontend components and interactivity.
+
 **SQLite:** Database options for storing blog post information.
+
