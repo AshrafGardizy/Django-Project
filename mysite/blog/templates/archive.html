@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block archive  %}
+
+<div class="arch">
+    <div class="arch_title">
+        <span>Archive</span>
+    </div>
+    <div class="arch_content">
+        <ul>
+            {% for item in objects %}
+            <a href="#"><li>{{item.title}}</li></a>
+            
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+
+{% endblock %}
