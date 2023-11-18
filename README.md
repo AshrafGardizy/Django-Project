@@ -18,3 +18,17 @@ This project is a web log developed using Django, allowing users to create, edit
 
 **SQLite:** Database options for storing blog post information.
 
+## Installation
+1. Clone the repository:
+```
+git clone https://github.com/yourusername/web-log.git
+```
+2. Create a virtual environment:
+```
+python -m venv myenv
+```
+
+
+2. 
+3. 
+
